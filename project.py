@@ -1,5 +1,6 @@
 def super_func() -> None:
     print(1)
+    print(1)
 
 
 def main() -> None:
